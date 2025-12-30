@@ -1,2 +1,1 @@
-# This is Netflix Clone Repo. with HTML AND CSS ONLY
-
+# This is Netflix Clone Repo. with HTML AND CSS
